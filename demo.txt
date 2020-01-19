@@ -1,0 +1,11 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is EE0D-178A
+
+ Directory of D:\DevOpsDemos\githubdemo\MyDemoRepo
+
+19-01-2020  20:06    <DIR>          .
+19-01-2020  20:06    <DIR>          ..
+19-01-2020  20:06                 0 demo.txt
+19-01-2020  20:05                12 README.md
+               2 File(s)             12 bytes
+               2 Dir(s)  10,143,162,368 bytes free
